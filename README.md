@@ -4,7 +4,7 @@ This project demonstrates how to use MLflow for experiment tracking and model ma
 
 ## 🔍 Overview
 
-Using a regression model (e.g., Random Forest, XGBoost, or Linear Regression), this project aims to:
+Using a RandomForestRegressor and California Housing Dataset, this project aims to:
 - Predict house prices based on input features
 - Log all hyperparameters and metrics using **MLflow**
 - Compare multiple runs visually in the **MLflow UI**
